@@ -40,15 +40,13 @@ const About = () => {
             <div className="text-center md:text-left">
               <h2 className="text-3xl font-bold mb-6">Our Mission</h2>
               <p className="text-lg leading-relaxed">
-                To empower brands through creative and effective multimedia solutions and be the leading agency in EdTech, 
-                ensuring that every client's vision is brought to life with clarity and creativity.
+                To empower individuals with practical digital and creative skills, and help brands and organisations bring their visions to life through clear, compelling multimedia solutions.
               </p>
             </div>
             <div className="text-center md:text-left">
               <h2 className="text-3xl font-bold mb-6">Our Vision</h2>
               <p className="text-lg leading-relaxed">
-                To be the leading agency in transforming ideas into compelling visual narratives and revolutionizing 
-                the digital space through innovative multimedia and EdTech solutions.
+                To be a global leader in digital creativity and EdTech—nurturing talent for a dynamic digital world and enabling brands to achieve their goals through innovative multimedia solutions.
               </p>
             </div>
           </motion.div>
